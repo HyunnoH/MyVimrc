@@ -21,6 +21,7 @@ Plugin 'mhinz/vim-signify'
 Plugin 'pangloss/vim-simplefold'
 Plugin 'xuhdev/SingleCompile'
 Plugin 'vim-scripts/AutoComplPop'
+Plugin 'jiangmiao/auto-pairs'
 
 call vundle#end()
 filetype plugin indent on
